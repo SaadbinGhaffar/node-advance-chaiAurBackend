@@ -1,0 +1,16 @@
+{
+  "name": "advance-chaiaurbackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "ja",
+    "ja"
+  ],
+  "author": "Saad",
+  "license": "ISC",
+  "description": ""
+}
